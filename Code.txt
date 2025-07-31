@@ -1,0 +1,6 @@
+uvicorn main:app --reload --port 8001
+/ iniciar uvicorn
+.\venv\Scripts\activate    
+/ activar el entorno
+http://127.0.0.1:8001/api/v1/docs
+Bearer (token)
